@@ -44,5 +44,5 @@ social:
 
 # Google Analytics
 ga:
-    # id: your_ga_id
-    # host: your_host
+    id: UA-106091114-1
+    host: reinhardhuang.com
