@@ -128,7 +128,7 @@ tags: 艺术
 
 ### 3.创世纪（Sistine Chapel ceiling）
 
-![创世纪](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505852162132&di=ea215ff9685c62c2e3f229167594ff32&imgtype=0&src=http%3A%2F%2Fwww.daozixizhi.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fdaozixizhi_000105.jpg)
+![创世纪](../../../assets/2017-09-20/deathnote.jpg)
 
 《创世纪》又名《西斯廷天顶画》，是米开朗基罗在罗马西斯廷教堂画创作的宗教题材的壁画，现存于**梵蒂冈西斯廷教堂礼拜堂**。壁画创作历时长达4年多，画题均取材于《圣经》，有关开天辟地直到洪水方舟的故事。画面由9幅中心画面和众多装饰画部组成，共绘有343个人物。
 
