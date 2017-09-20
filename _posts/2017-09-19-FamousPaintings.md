@@ -128,7 +128,7 @@ tags: 艺术
 
 ### 3.创世纪（Sistine Chapel ceiling）
 
-![创世纪](../../../assets/2017-09-20/deathnote.jpg)
+![创世纪](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505852162132&di=ea215ff9685c62c2e3f229167594ff32&imgtype=0&src=http%3A%2F%2Fwww.daozixizhi.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fdaozixizhi_000105.jpg)
 
 《创世纪》又名《西斯廷天顶画》，是米开朗基罗在罗马西斯廷教堂画创作的宗教题材的壁画，现存于**梵蒂冈西斯廷教堂礼拜堂**。壁画创作历时长达4年多，画题均取材于《圣经》，有关开天辟地直到洪水方舟的故事。画面由9幅中心画面和众多装饰画部组成，共绘有343个人物。
 
@@ -139,7 +139,7 @@ tags: 艺术
 ![创造亚当](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1505920092555&di=44238fc9a797a9f20bf49fe61167f51c&imgtype=0&src=http%3A%2F%2Fwww.cndayanw.com%2Fuploadfile%2F2016%2F0503%2F20160503030135818.jpg)
 
 #### 现代作品的致敬
-![死亡笔记](http://imgsrc.baidu.com/forum/pic/item/5a9e9c25bc315c60ff6455a88ab1cb1348547760.jpg)
+![死亡笔记](../../../assets/2017-09-20/deathnote.jpg)
 
 ![王牌天神](http://fr.web.img6.acsta.net/medias/nmedia/18/35/07/45/affiche.jpg)
 
